@@ -14,10 +14,10 @@ const basicUserData = {
 };
 
 const basicUserData2 = {
-	first_name: "mark",
-	last_name: "doe",
-	email: "randomemailmark@gmail.com",
-	password: "testUser1000",
+	first_name: "Odinaka",
+	last_name: "Kingsley",
+	email: "alexkingsley@gmail.com",
+	password: "testUser1234",
 	post: {},
 };
 
