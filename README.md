@@ -1,4 +1,4 @@
-# BLOGGING API
+## BLOGGING API
 
 This project serves as a backend for a blogging platform, allowing users to manage and read blogs with various features.
 
